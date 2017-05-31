@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # OpenSID
-OpenSID (https://github.com/eddieridwan/OpenSID) adalah Sistem Informasi Desa (SID) yang sengaja dibuat supaya terbuka dan dapat dikembangkan bersama-sama oleh komunitas peduli SID.
+OpenSID (https://github.com/aldhi253/OpenSID) adalah Sistem Informasi Desa (SID) yang sengaja dibuat supaya terbuka dan dapat dikembangkan bersama-sama oleh komunitas peduli SID.
 
 SID diharapkan dapat membantu pemerintah desa dalam beberapa hal berikut:
 
@@ -23,16 +21,6 @@ OpenSID dikelola di Github untuk:
 - memudahkan kolaborasi antar pegiat SID dan juga dengan desa dampingan dalam mengembangkan SID
 - backup online _source code_ SID yg dapat diaskses setiap saat
 
-## PEDOMAN PENGGUNAAN
-Pedoman pemasangan dan penggunaan OpenSID dapat dilihat di wiki OpenSID di https://github.com/eddieridwan/opensid/wiki.
-
-## OpenSID v SID CRI
-OpenSID dikembangkan sejak Mei 2016 dari versi SID CRI 3.04 yang diperoleh dari Andi Anwar.
-
-SID CRI terakhir yang telah digabung dengan OpenSID adalah SID 3.10 yang di-share oleh anggota https://www.facebook.com/groups/OpenSID/ pada tanggal 15 Pebruari 2017. OpenSID akan terus menggabung versi baru yang mungkin sewaktu-waktu dirilis oleh CRI.
-
-Untuk melihat perbedaan antara OpenSID dan SID-CRI, silakan klik [Tanya-Jawab OpenSID vs SID-CRI](Tanya-Jawab-OpenSID-vs-SID-CRI).
-
 ## HAK CIPTA, SYARAT, DAN KETENTUAN
 Aplikasi Sistem Informasi Desa (SID) dibangun dan dikembangkan pada awalnya oleh COMBINE Resource Institution sejak tahun 2009. Pemegang hak cipta aslinya adalah Combine Resource Institution (http://lumbungkomunitas.net/).
 
@@ -48,18 +36,3 @@ Modul administrasi OpenSID dapat diaskses pada http://sid.bangundesa.info/index.
 ### FORUM
 
 Anda dapat bergabung dengan [Forum Pengguna dan Pegiat OpenSID](https://www.facebook.com/groups/opensid) di Facebook. Group ini bersifat informal dan merupakan tempat berbagi informasi dan saling membantu menggunakan dan mengembangkan aplikasi OpenSID.
-
-## KEMBANGKAN BERSAMA
-
-Pengguna dan pegiat SID dapat melaporkan dan mendaftarkan masalah/usulan/permintaan perbaikan atau pengembangan OpenSID di https://github.com/eddieridwan/opensid/issues. Issues ini merupakan daftar tugas bagi pegiat OpenSID untuk mengembangkan OpenSID berdasarkan masukan dari komunitas SID.
-
-Komunitas SID juga bebas, bahkan diajak, untuk turut membuat kontribusi pada panduan OpenSID di https://github.com/eddieridwan/OpenSID/wiki, dan pada script OpenSID di (https://github.com/eddieridwan/OpenSID).
-
-=======
-# aa
-aa
->>>>>>> 24243a4b8717d1f0f06d798afa93fbf28dd72405
-=======
-# OpenSID
-Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID
->>>>>>> d9024df8909e12940416915534493b979dd7162d
